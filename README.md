@@ -1,6 +1,6 @@
 # GenAI for Developers
 
-Generative AI is opening up doors for individuals and businesses alike. Developers can take advantage of this new technology in a myriad of ways, from simplifying mundane tasks, to building applications that take advantage of the latest technology.
+Generative AI is opening up doors for individuals and businesses alike. Developers can take advantage of this new technology in a myriad of ways, from simplifying mundane tasks, to building applications that take advantage of the latest technology. 
 
 In this repository you will find samples, demos and tutorials to help developers take advantage of GenAI.
 
